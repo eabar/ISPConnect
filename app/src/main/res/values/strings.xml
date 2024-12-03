@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ISPConnect</string>
+    <string name="app_logo">ISPConnect\n</string>
+    <string name="app_version">Version 1.1.1</string>
+    <string name="developer_info"><![CDATA[Created by Evan Barrett & David Dunne]]></string>
+    <string name="contact_info">Contact Info:\n evan.barrett76@ed.cna.nl.ca\n david.dunne75@ed.cna.nl.ca</string>
+    <string name="button_text">Back</string>
+    <string name="public_transit_information_header">Public Transit Information</string>
+    <string name="news_header">News Feed</string>
+</resources>
